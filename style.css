@@ -58,8 +58,10 @@ h1{
     text-align: center;
 }
 
-#content{
-         width: 700px;
+
+      
+     #content{
+         width: 800px;
          display: block;
          height: auto;
          
@@ -67,11 +69,11 @@ h1{
      #content > img{
         float: left; width: 200px;
         height: 200px;
-        margin: 10px 10px 10px 10px;
+        margin: 20px;
         
-      
+        
      }
-   
+     
     .single-work{
 
     box-shadow: 10px 10px 35px grey;
